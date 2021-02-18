@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-    "name": "Clear Cache",
+    	"name": "Clear Cache",
 	"description": "Running Clear Cache will clear in-memory caches in the VertiPaq in-memory analytics engine.",
 	"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 	"arguments": "-WindowStyle hidden -executionpolicy bypass -file C:\\temp\\ASClearCache.ps1 \"%server%\" \"%database%\"",
