@@ -3,10 +3,7 @@
 Content Glossary
 
 - [March 2021](#march-2021)
-  - Report Types
-
 - [February 2021](#february-2021)
-  - Table and Matrix Design
 
 </br>
 
