@@ -13,6 +13,7 @@ Content Glossary
 # [March 2021](https://github.com/stlpbiug/Events/blob/main/2021_MAR.md)
 
 - Report Types
+- URL access concepts
 
 # [February 2021](https://github.com/stlpbiug/Events/blob/main/2021_FEB.md)
 
